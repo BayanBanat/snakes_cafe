@@ -10,14 +10,14 @@ menu={
 
 def into():
    print(
-    '''
-    **************************************
-    **    Welcome to the Snakes Cafe!   **
-    **    Please see our menu below.    **
-    **
-    ** To quit at any time, type "quit" **
-    **************************************
-    '''
+'''
+**************************************
+**    Welcome to the Snakes Cafe!   **
+**    Please see our menu below.    **
+**
+** To quit at any time, type "quit" **
+**************************************
+'''
    )
 
 def menuList():
